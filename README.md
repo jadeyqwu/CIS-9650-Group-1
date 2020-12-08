@@ -8,7 +8,7 @@ Assume our clients have a lot of money and would like to do some investments in 
 - What are the factors that affect the most on the selling price?
 - From 2012 to 2015, which neighborhoods perform better over the other? From 2016 to 2019, which neighborhoods perform better over the other. And is there anything changing from the previous decade? 
 - Based on 5-8 fields such as borough,year built, gross square feet, total units, predict sales price with machine learning. 
-- How has the percentage of condos/houses in the neighborhood fluctuated over the last 5 years?
+- How has the percentage of condos/houses in the boroughs fluctuated over the last 5 years (2015 - 2019)? And Based on the data of the most recent year (2019), provide top 5 neighborhoods supplied most condos (or houses) for clients interested in condos (or houses).
 - Maybe seeing how densely populated a neighborhood is in comparison to another? (I found a dataset that can help us out with this)
 - What’s the distribution of 0 sale’s price? Is there any pattern that sale’s day related to a specific month or weekday?
 
