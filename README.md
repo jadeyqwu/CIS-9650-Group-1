@@ -1,5 +1,7 @@
 # CIS-9650-Group-1
-## Project Ideas: (location: only NYC)
+Team members: Alexandra Chan, Lei Gao, Qian Li, Kiran Syed, Weiqian Wu, Yuqing Wu
+
+## Project Ideas:
 Assume our clients have a lot of money and would like to do some investments in real estate. They are seeking recommendations about the houses with different characteristics.
 Assume our clients purchase the condo/house, explore the NOI and recommend if they should rent the condo/house. (Dataset II: Income information for condominiums or cooperatives.)
 
