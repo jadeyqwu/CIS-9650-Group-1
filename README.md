@@ -2,8 +2,7 @@
 Team members: Alexandra Chan, Lei Gao, Qian Li, Kiran Syed, Weiqian Wu, Yuqing Wu
 
 ## Project Ideas:
-Assume our clients have a lot of money and would like to do some investments in real estate. They are seeking recommendations about the houses with different characteristics.
-Assume our clients purchase the condo/house, explore the NOI and recommend if they should rent the condo/house. (Dataset II: Income information for condominiums or cooperatives.)
+Assume our clients have a lot of money and would like to do some investments in real estate. They are seeking recommendations about the condos/houses with different characteristics.
 
 ## Questions we solved:
 - What are the factors that affect the most on the selling price?
@@ -18,7 +17,7 @@ Assume our clients purchase the condo/house, explore the NOI and recommend if th
 - How to determine NOI threshold for rental decision? 
 
 ## Dataset I: “All Boroughs 2012 - 2019.csv”
-It contains annual sales price data by borough in NYC from 2012 to 2019. Each year the data has around 1,000,000 records on 21 fields such as sales price, zip code, residential unit, gross square feet and year built etc..
+It contains annual sales price data by borough in NYC from 2012 to 2019. Each year the data has around 1,000,000 records on 21 fields such as sales price, zip code, residential unit, gross square feet and year built etc.
 Link: https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
 
 ## Dataset II: “DOF__Cooperative_Comparable_Rental_Income__Citywide_ (Condo only).csv”
