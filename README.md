@@ -3,7 +3,7 @@
 Assume our clients have a lot of money and would like to do some investments in real estate. They are seeking recommendations about the houses with different characteristics.
 Assume our clients purchase the condo/house, explore the NOI and recommend if they should rent the condo/house. (Dataset II: Income information for condominiums or cooperatives.)
 
-## To be explored topic:
+## Questions we solved:
 - What are the factors that affect the most on the selling price?
 - From 2012 to 2015, which neighborhoods perform better over the other? From 2016 to 2019, which neighborhoods perform better over the other. And is there anything changing from the previous decade? (use dataset II)
 - What would be the top choices for clients given the prioritized conditions?
@@ -14,9 +14,6 @@ Assume our clients purchase the condo/house, explore the NOI and recommend if th
 - What’s the distribution of 0 sale’s price? Is there any pattern that sale’s day related to a specific month or weekday?
 - Apartments built in 1960-1980 have higher market value; the reason behind the fact that twin-peak histogram on gross income per square is elevator or not?
 - How to determine NOI threshold for rental decision? 
-
-## Data date: 2012-2019
-## Data borough : 5 
 
 ## Dataset I: “All Boroughs 2012 - 2019.csv”
 It contains annual sales price data by borough in NYC from 2012 to 2019. Each year the data has around 1,000,000 records on 21 fields such as sales price, zip code, residential unit, gross square feet and year built etc..
