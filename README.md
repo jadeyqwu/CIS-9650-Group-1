@@ -22,3 +22,7 @@ It contains condominiums or cooperatives valuation and valuation of rental prope
 Link: https://data.cityofnewyork.us/City-Government/DOF-Cooperative-Comparable-Rental-Income-Citywide-/myei-c3fa
 
 
+## Dataset III: “New_York_City_Population_By_Community_Districts.csv”
+It contains census data from the different districts of the 5 boroughs of New York City between the years 1970 to 2010. 
+Link: https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Community-Districts/xi7c-iiu2 
+
