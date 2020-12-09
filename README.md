@@ -17,7 +17,7 @@ It contains annual sales price data by borough in NYC from 2012 to 2019. Each ye
 Link: https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
 
 ## Dataset II: “DOF__Cooperative_Comparable_Rental_Income__Citywide_ (Condo only).csv”
-It contains condominiums or cooperatives valuation and valuation of rental properties similar in physical features and location to the condominiums or cooperatives from 2012 to 2019. It has around 40,000 records on 60 fields such as zip code, gross square feet and year built, and net operating income etc.
+It contains condominiums or cooperatives valuation and valuation of rental properties similar in physical features and location to the condominiums or cooperatives from 2012 to 2019. It has around 40,000 records on 60 fields such as zip code, gross square feet and year built, and net operating income etc. In the context of our project, we used the data for condominium properties and not their corresponding rental units.
 1=Manhattan, 2=The Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island
 Link: https://data.cityofnewyork.us/City-Government/DOF-Cooperative-Comparable-Rental-Income-Citywide-/myei-c3fa
 
